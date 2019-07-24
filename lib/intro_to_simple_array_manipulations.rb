@@ -15,3 +15,4 @@ updated_array = using_push(colors_in_the_rainbow, next_color)
 @new_array = using_insert(@list_of_programming_languages, @another_language)
 new_array = using_uniq(haircuts)
 flat_array = using_flatten(instruments)
+using_delete takes in two arguments 
